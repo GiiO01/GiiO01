@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiiO01
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning JAVAScript
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me lastgiio1@gmail.com
 
